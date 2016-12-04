@@ -19,10 +19,14 @@ IT系の情報を取得するために勉強会参加したいなー。
 という意見がありましたら募集しております。
 ITジャンルであれば可能な限り開催できるよう努めます。
 
-### 掲載物(comming sooooon)
+### リンク 
 
-- Qiita
-- Slideshare
+| カテゴリ | URL  | 備考 |
+|:------------ |:--------------:| ------------:|
+| イベント管理 |[Connpass](https://kashiwano-ha-geeks.connpass.com) | |
+| ドキュメント管理 | Qiita予定 | |
+| プレゼンテーション  | Slideshare予定 | |
+
 
 ### 初参加の方の意見
 
@@ -41,12 +45,4 @@ KOILに初めて来ていただいた方で以下のようは感想を頂きま�
 - 柏の葉にこんな綺麗な施設があると知らなかった。
 - 3Dプリンターやレーザーカッターが利用できるなんて知らなかった。
 
-### 今後の予定
-
-- [Arduino もくもく in 柏の葉KOIL](https://kashiwano-ha-geeks.connpass.com/event/46211/)
-- RaspberryPi もくもく IN KOIL vol 2
-
-### イベント履歴
-
-- [RaspberryPi もくもく IN KOIL](https://connpass.com/event/45886/)
 
