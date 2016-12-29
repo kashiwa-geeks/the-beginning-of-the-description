@@ -2,7 +2,9 @@
 
 ## 目的
 
-Kashiwano-ha Open Innovation lab 通称 KOILを拠点とし、IT系の勉強会を実施します。
+Kashiwa Geeksという名称で勉強会グループを運営しています。
+
+IT系の勉強会のアウトプット先として、Githubリポジトリを利用します。
 
 ## 背景
 
